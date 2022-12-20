@@ -24,6 +24,20 @@ To run the script, use the following command:
 ./faustmapper.py --mapping-target wekinator
 ```
 
+## Compiling FAUST projects
+
+The FAUSTmapper project requires that a FAUST synthesizer or other DSP project is running locally on your machine with HTTP control.
+
+### Faust2...
+
+FAUST has made tooling avaliable to compile `.dsp` files to various platforms. For instance, to compile for use with JACK Audio, use the [faust2jack](https://faustdoc.grame.fr/manual/tools/#faust2jack) tool, as follows:
+
+```bash
+faust2jack -httpd -midi -nvoices 8 simplesynth.dsp
+```
+
+Which will compile the `simplesynth` project, with both HTTP and MIDI control with 8 voices of polyphony. For more FAUST compilation options, see the [faust2... tools documentation](https://faustdoc.grame.fr/manual/tools/).
+
 ## Todo List
 
 This is an ongoing project, the following is a todo list of development tasks that would improve the usability of FAUSTmapper.
