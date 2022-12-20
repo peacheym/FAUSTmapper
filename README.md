@@ -1,6 +1,6 @@
 # FAUSTmapper
 
-This repository hosts FAUSTmapper, a tool for binding popular mapping tools to the [FAUST](https://faust.grame.fr/) ecosystem.
+This repository hosts FAUSTmapper, a tool for binding popular Digital Musical Intrument (DMI) mapping tools to the [FAUST](https://faust.grame.fr/) ecosystem.
 
 ## libmapper Connectivity
 
