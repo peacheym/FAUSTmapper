@@ -16,8 +16,6 @@ To run the script, use the following command:
 
 FAUSTmapper also supports establishing a binding to the [Wekinator](http://www.wekinator.org/) project.
 
-<todo: Include Wekinator description>
-
 To run the script, use the following command:
 
 ```bash
