@@ -52,4 +52,5 @@ This is an ongoing project, the following is a todo list of development tasks th
 
 The following poster was presented at the [4th Annual International Symposium on the Internet of Sounds](https://internetofsounds.net/is2_2023/) and was awarded the **Best Poster Award**, thank you to the selection committee for this acknowledgement.
 
-![FaustMapperPoster_Final](https://github.com/peacheym/FAUSTmapper/assets/15327742/e86308bb-b2bf-40fc-98fc-fed3c01692d7)
+![faustmapperposter](https://github.com/peacheym/FAUSTmapper/assets/15327742/fdf06473-74b9-45cc-8142-1470a1c1178a)
+
